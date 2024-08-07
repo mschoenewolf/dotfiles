@@ -12,6 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+alias kcx='kubectx'
+
 alias k='kubecolor'
 alias ksys='kubecolor --namespace=kube-system'
 alias ka='kubecolor apply --recursive -f'
